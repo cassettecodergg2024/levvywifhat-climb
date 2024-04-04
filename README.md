@@ -13,7 +13,7 @@ Levvywifhat-Climb for mobile devices brings the captivating action of the origin
 
 ### Features
 
-- **Level Editor:** Design and share your own game worlds. The best community creations will be highlighted for everyone to challenge and enjoy.
+- **Level Editor:** Design and share your own game worlds.
 - **Community-Driven:** Every game element, from graphics to soundtracks, comes from our community's creativity.
 - **Free & Accessible:** Remain free to play, dive into a game created by and for the community.
 
