@@ -34,17 +34,6 @@ We encourage contributions of all kinds. Here's how you can help:
 - **Feedback:** Share your gameplay experience and suggestions.
 - **Design:** Submit your own levels, graphics, and soundtracks.
 
-## 🤝 Support
-
-Join our vibrant community on [Discord](#) or [X](#).
-
-## 🔗 Links
-
-- [Discord](#)
-- [X](#)
-
-Levvywifhat-Climb is your adventure, your community, always with you. Let's expand the boundaries of what's possible together.
-
 ---
 
 Stay tuned for the final version!
